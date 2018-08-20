@@ -52,6 +52,7 @@
 		6F54E87321256D4D0075782C /* DKBuffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DKBuffer.m; sourceTree = "<group>"; };
 		6F54E87821256D930075782C /* DKFrameBuffer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DKFrameBuffer.h; sourceTree = "<group>"; };
 		6F54E87921256D940075782C /* DKFrameBuffer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DKFrameBuffer.m; sourceTree = "<group>"; };
+		6F6CAB6A212A9ADC0044E12E /* 黑边.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "黑边.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		6F54E83B21256CC60075782C = {
 			isa = PBXGroup;
 			children = (
+				6F6CAB6A212A9ADC0044E12E /* 黑边.jpg */,
 				6F54E86B21256D4D0075782C /* DKRenderBuffer */,
 				6F54E84621256CC70075782C /* DKRenderBufferDemo */,
 				6F54E85F21256CC90075782C /* DKRenderBufferDemoUITests */,
@@ -123,10 +125,10 @@
 				6F54E87321256D4D0075782C /* DKBuffer.m */,
 				6F54E87121256D4D0075782C /* DKEAGLContext.h */,
 				6F54E86D21256D4D0075782C /* DKEAGLContext.m */,
-				6F54E86F21256D4D0075782C /* DKFaceRenderBuffer.h */,
-				6F54E87221256D4D0075782C /* DKFaceRenderBuffer.m */,
 				6F54E87821256D930075782C /* DKFrameBuffer.h */,
 				6F54E87921256D940075782C /* DKFrameBuffer.m */,
+				6F54E86F21256D4D0075782C /* DKFaceRenderBuffer.h */,
+				6F54E87221256D4D0075782C /* DKFaceRenderBuffer.m */,
 			);
 			name = DKRenderBuffer;
 			path = ../DKRenderBuffer;
@@ -215,6 +217,7 @@
 				6F54E85421256CC90075782C /* LaunchScreen.storyboard in Resources */,
 				6F54E85121256CC90075782C /* Assets.xcassets in Resources */,
 				6F54E84F21256CC70075782C /* Main.storyboard in Resources */,
+				6F6CAB6B212A9ADC0044E12E /* 黑边.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
